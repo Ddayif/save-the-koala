@@ -72,7 +72,8 @@ img{
 
 #seccion-tres{
 	background-color: #A89F68;
-	padding: 150px 0;
+	padding-top: 150px;
+	padding-bottom: 70px;
 }
 
 .help{
@@ -89,4 +90,24 @@ img{
 
 .cosita{
 	border: 10px solid white;
+}
+
+/************Comienza la cuarta seccion***************/
+
+#seccion-cuatro{
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-image: url(../img/all.jpg);
+	padding-top: 80px;
+	height: 900px;
+}
+
+.frase{
+	display: block;
+}
+
+.title-tres{
+	color: whitesmoke;
+	font-size: 10px;
 }

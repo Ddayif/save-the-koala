@@ -10,6 +10,7 @@ army green: 41521F;
 	background-image: url(../img/portada.jpg); 
 }
 
+
 .navbar-default{
 	background-color: transparent;
 	border: none;
@@ -18,4 +19,24 @@ army green: 41521F;
 .navbar-default .navbar-nav>li>a {
     color: whitesmoke;
     font-weight: bolder;
+    font-size: 20px;
+    padding-bottom: 217px;
+}
+
+p, h1{
+	color: whitesmoke;
+}
+
+p{
+	font-size: 19px;
+}
+
+.row {
+    margin-right: 202px;
+    height: 55vh;
+}
+
+.btn-mio{
+	background-color: #41521F;
+	color: whitesmoke;
 }

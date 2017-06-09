@@ -3,6 +3,8 @@ wood brown: A89F68;
 army green: 41521F;
 */
 
+
+
 #bienvenida{
 	background-repeat: no-repeat;
 	background-position: center;
@@ -143,14 +145,50 @@ h6{
 
 #seccion-seis{
 	background-color: #A89F68;
+
 }
 
 .title-cinco{
 	color: #41521F; 
+	font-size: 29px;
+    padding: 70px;
+    font-weight: bolder;
 }
 
-.signo-peso{
+.fa-usd{
 	color: whitesmoke;
+	font-size: 20px;
+	    padding: 0px 75px;
+}
+
+h1{
+	padding: 0px 16px;
+}
+
+.donaciones{
+	font-size: 105px;
+}
+
+.moneda{
+	font-size: 20px;
+	    margin-top: -31px;
+}
+
+.tipos-donaciones{
+	color: #372E2E;
+	font-size: 15px;
+	font-weight: bolder;
+	padding-left: 115px;
+}
+
+.opciones{
+	color: #131212;
+	font-size: 17px;
+	border-bottom: 1px solid whitesmoke;
+}
+
+.access{
+	border: none;
 }
 
 
@@ -184,3 +222,4 @@ footer{
 a{
 	color: #A89F68;
 }
+

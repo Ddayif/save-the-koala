@@ -141,17 +141,46 @@ h6{
 
 /************Comienza la sexta seccion***************/
 
-footer{
-	background-color: #41521F;;
+#seccion-seis{
+	background-color: #A89F68;
 }
 
+.title-cinco{
+	color: #41521F; 
+}
+
+.signo-peso{
+	color: whitesmoke;
+}
+
+
+
+/************Comienza el footer**************/
+footer{
+	background-color: #41521F;
+}
+
+/*titulo about*/
 .about{
 	padding-top: 80px;
 	font-size: 15px;
 	color: #A89F68;
+	font-weight: bolder;
 }
 
+/*parrafo de about*/
 .parrafo-footer{
 	padding-bottom: 50px;
 	font-size: 15px;
+
+}
+
+.lista{
+	padding-top: 100px;
+	font-weight: bolder;
+	list-style: none;
+}
+
+a{
+	color: #A89F68;
 }
